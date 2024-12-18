@@ -28,6 +28,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeStory](https://codestory.ai/) — An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
+- [Windsurf](https://codeium.com/windsurf) - An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Built by Codeium.
+- [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 
 ## Git Clients
 
@@ -52,7 +54,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
-- [Gur.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
 
 **IDE extensions:**
 
@@ -77,6 +79,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) — AI coding assistant with extensions for IDEs such as VS Code, IntelliJ IDEA, AWS Cloud9 and CLIs such as MacOS Terminal, iTerm2, built-in VS Code Terminal. CodeWhisperer can also scan code to highlight and define security issues.
 - [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot) — Studio Bot is an AI powered coding assistant that is tightly integrated in Android Studio. Studio Bot can help Android developers generate code, find relevant resources, learn best practices, and save time.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
+- [EasyCode](https://www.easycode.ai/) - VS Code extension with GPT-4 chat.
+- 
 
 **Command-line:**
 
@@ -92,7 +96,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [Shell Whiz](https://github.com/beimzhan/shell-whiz) — highly configurable CLI assistant to generate shell commands and get explanations for them.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
-- [code-collator](https://github.com/tawanda-kembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
+- [code-collator](https://github.com/tawandakembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
 
 ## Agents
 
@@ -111,6 +115,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Micro Agent](https://github.com/micro-ai/micro-agent) — Open-source tool that generates and iterates on code using AI-created unit tests as guardrails.
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
+- [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 ## PR agents
 
@@ -132,6 +137,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
 - [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
+- [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) - AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
+
 ## App generators
 
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
@@ -148,7 +155,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Rendition Create ](https://www.renditioncreate.com/) — Create and iterate new UI components in your browser.
 - [Rapidpages](https://www.rapidpages.io/) — Open source UI generator.
 - [Magic Patterns](https://www.magicpatterns.com/) — Protoype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their [Chrome Extension](https://www.magicpatterns.com/extension). Can export to Figma with a [plugin](https://www.figma.com/community/plugin/1304255855834420274). Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind. 
-- [Clone UI](https://clone-ui.design/) — Tailwind CSS UI component generator.
 - [Tempo ](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 - [CodeParrot](https://www.codeparrot.ai/) — VS code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
@@ -156,6 +162,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
+- [Polymet](https://polymet.ai) - Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.  
+
 
 ## Snippet generators
 
@@ -212,3 +220,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DeepUnit](https://www.deepunit.ai/) — Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) — Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline.
 - [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
+- [Test Gru](https://gru.ai/home#test-gru) - Provides enterprise-level unit test automation services.
